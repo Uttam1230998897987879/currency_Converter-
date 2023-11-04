@@ -1,7 +1,7 @@
 # currency_Converter-
 currency_Converter  using java
 
-##Project Components:
+## Project Components:
 
 AboutWindow.java: This class is responsible for displaying information about the application, such as the developer's details and version information.
 
@@ -13,9 +13,9 @@ JTextFieldLimit.java: This class helps in limiting the input length for text fie
 
 MainWindow.java: The main window of the application, where users input the amount to be converted, select the source and target currencies, and view the result.
 
-README.md: Documentation file that provides information about the project, how to use it, and any special considerations.
 
-##Features:
+
+## Features:
 
 Real-time currency conversion using up-to-date exchange rates.
 User-friendly graphical interface with input fields, dropdown menus, and clear result display.
